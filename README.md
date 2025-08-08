@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Le Hoai Giang</h1>
 <h3 align="center">embedded software engineer in VietNam</h3>
 
-- 🔭 I’m currently working on **IoT project ESP32**
+- 🔭 I’m currently working on **IoT project ESP32 and Many MCU**
 
 - 🌱 I’m currently learning **AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/lehoaigiang1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lehoaigiang1998" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@lehoaigiangctu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@lehoaigiangctu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/LeHoaiGiangTDH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lehoaigiang1998" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@lehoaigiangctu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@lehoaigiangctu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
