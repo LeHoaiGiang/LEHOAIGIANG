@@ -11,7 +11,7 @@ I am a **Control Engineering and Automation engineer** with over 5 years of comb
 
 Currently, I am also working as a **Lecturer** at the Department of Control Engineering & Automation Technology, FPT Education, where I have the opportunity to teach, mentor, and guide students in their hardware and software projects.
 - 🔭 I’m currently working on **IoT projects using ESP32, STM32, and other MCUs**.
-- 🌱 I’m currently learning **AI and exploring its applications in UAV solutions for industry**.
+- 🌱 I’m currently learning **AI**.
 - 💬 Ask me about **Embedded Systems, PCB Design, FPGAs, and Industrial Automation**.
 
 <h3 align="left">📬 Connect with me:</h3>
