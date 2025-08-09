@@ -7,11 +7,11 @@
 
 ### 🙋‍♂️ About Me
 
-I am a **Control Engineering and Automation engineer** with over 5 years of combined experience in embedded systems, IoT, and industrial automation. [cite_start]My passion lies in designing and developing complete technology solutions, from hardware and PCB design to firmware programming and system integration. [cite: 29, 50, 54]
+I am a **Control Engineering and Automation engineer** with over 5 years of combined experience in embedded systems, IoT, and industrial automation. My passion lies in designing and developing complete technology solutions, from hardware and PCB design to firmware programming and system integration.
 
-[cite_start]Currently, I am also working as a **Lecturer** at the Department of Control Engineering & Automation Technology, FPT Education, where I have the opportunity to teach, mentor, and guide students in their hardware and software projects. [cite: 25, 29]
-- [cite_start]🔭 I’m currently working on **IoT projects using ESP32, STM32, and other MCUs**. [cite: 56, 62]
-- [cite_start]🌱 I’m currently learning **AI and exploring its applications in UAV solutions for industry**. [cite: 52]
+Currently, I am also working as a **Lecturer** at the Department of Control Engineering & Automation Technology, FPT Education, where I have the opportunity to teach, mentor, and guide students in their hardware and software projects.
+- 🔭 I’m currently working on **IoT projects using ESP32, STM32, and other MCUs**.
+- 🌱 I’m currently learning **AI and exploring its applications in UAV solutions for industry**.
 - 💬 Ask me about **Embedded Systems, PCB Design, FPGAs, and Industrial Automation**.
 
 <h3 align="left">📬 Connect with me:</h3>
@@ -27,10 +27,10 @@ I am a **Control Engineering and Automation engineer** with over 5 years of comb
 
 | Hardware & Platforms                                                                                             | Software & Protocols                                                                         |
 | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [cite_start]🔹 **FPGA/SoC:** Xilinx Zynq, Artix-7, PetaLinux [cite: 67, 68, 70, 76]                                               | [cite_start]🔹 **Languages:** C/C++, Verilog, C# (basic) [cite: 40, 46, 48, 71, 79]                               |
-| [cite_start]🔹 **Microcontrollers:** STM32 (H7/F4), ESP32, PIC, ARM Cortex-M [cite: 28, 56, 62, 82, 93, 98]                         | [cite_start]🔹 **Communication:** MQTT, Modbus, Ethernet, UART, SPI, I2C [cite: 56, 63, 87, 106]                |
-| [cite_start]🔹 **PCB Design:** Schematic & 2-Layer PCB Design [cite: 28, 44, 45, 110]                                                 [cite_start]|🔹 **Tools:** Altium Designer, Xilinx Vivado, Git, Docker [cite: 28, 44, 74]                  |
-| [cite_start]🔹 **IoT Devices:** Arduino, ESP8266, Nuvoton NUC140 [cite: 93, 104, 111]                                         | [cite_start]🔹 **Data Structures & Algorithms** [cite: 40, 41]                                                      |
+| 🔹 **FPGA/SoC:** Xilinx Zynq, Artix-7, PetaLinux                                               | 🔹 **Languages:** C/C++, Verilog, C# (basic)                               |
+| 🔹 **Microcontrollers:** STM32 (H7/F4), ESP32, PIC, ARM Cortex-M                         | 🔹 **Communication:** MQTT, Modbus, Ethernet, UART, SPI, I2C                |
+| 🔹 **PCB Design:** Schematic & 2-Layer PCB Design                                                 |🔹 **Tools:** Altium Designer, Xilinx Vivado, Git, Docker                  |
+| 🔹 **IoT Devices:** Arduino, ESP8266, Nuvoton NUC140                                         | 🔹 **Data Structures & Algorithms** |
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
